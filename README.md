@@ -2,8 +2,8 @@
  <h3 align="center"> Welcome to Aftanase Stefan's profile!</h3>
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&pause=1000&color=3DAFF7&center=true&width=435&height=100&lines=Front+-+End+Developer;1%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
-<h2>Social Networks</h2>
 <img align='right' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+<h2>Social Networks</h2>
 
 [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
 
