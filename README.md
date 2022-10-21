@@ -10,7 +10,7 @@
 
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[2]: https://www.linkedin.com/in/stefan-andrei-aftanase
+[2]: https://www.linkedin.com/in/stefan-andrei-aftanase-8907b61ba
 [3]: https://www.instagram.com/stefan_aft
 
 <br>
