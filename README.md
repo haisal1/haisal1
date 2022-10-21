@@ -2,6 +2,15 @@
  <h3 align="center"> Welcome to Aftanase Stefan's profile!</h3>
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&pause=1000&color=3DAFF7&center=true&width=435&height=100&lines=Front+-+End+Developer;1%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a></p>
 
+<h2>Social Networks</h2>
+
+[![LinkedIn][2.2]][2] [![Instagram][3.2]][3]
+
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[2]: https://www.linkedin.com/in/stefan-andrei-aftanase
+[3]: https://www.instagram.com/stefan_aft
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
