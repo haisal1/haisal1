@@ -16,6 +16,16 @@
 <br>
 <br>
 
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+    </a>
+</p>
+
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -50,14 +60,4 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=haisal1&theme=monokai-metallian&hide_border=true"/>
   </a>
-</p>
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming and markup languages
-
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-    </a>
 </p>
