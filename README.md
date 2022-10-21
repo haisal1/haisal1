@@ -13,10 +13,6 @@
 [2]: https://www.linkedin.com/in/stefan-andrei-aftanase-8907b61ba
 [3]: https://www.instagram.com/stefan_aft
 
-<a href="https://discord.gg/Stefan A." rel="nofollow" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="max-width: 100%;">
-</a>
-
 <br>
 <br>
 
