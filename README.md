@@ -12,6 +12,9 @@
 [2]: https://www.linkedin.com/in/stefan-andrei-aftanase
 [3]: https://www.instagram.com/stefan_aft
 
+<br>
+<br>
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
