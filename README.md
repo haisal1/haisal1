@@ -16,25 +16,6 @@
 <br>
 <br>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=haisal1&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming and markup languages
-
-<p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-    </a>
-</p>
-
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -57,3 +38,26 @@
 </p>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=3DAFF7"/>
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haisal1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=haisal1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming and markup languages
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+    </a>
+</p>
