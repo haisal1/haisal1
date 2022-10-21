@@ -18,6 +18,9 @@
 
 ## 🛠️ My favorite tools
 
+<br>
+<br>
+
 ### 👨‍💻 Programming and markup languages
 
 <p>
@@ -25,6 +28,8 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     </a>
 </p>
+<br>
+<br>
 
 ### 🧰 Frameworks and libraries
 
@@ -33,6 +38,8 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
+<br>
+<br>
 
 ### 💻 Software and tools
 
@@ -48,6 +55,9 @@
 </p>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=3DAFF7"/>
+
+<br>
+<br>
 
 ## Stats
 
